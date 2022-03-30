@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+input {
+    margin-top: 0.3rem !important;
+}
+
+h1 {
+    color: lightgreen;
+    text-shadow:
+    3px 3px 0 #000,
+  -1px -1px 0 #000,  
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+img {
+    padding-top: 0.5rem;
+    height: 100%;
+}
+
+.sis {
+    margin: 0px 5px 0px 0px;
+}
+
+.bg {
+    background-image: url("../img/bg-car1.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 768) {
+    input{
+        
+    }
+}
