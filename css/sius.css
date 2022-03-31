@@ -38,5 +38,11 @@ img {
     .container
     {
         flex-direction: column;
+        width: 60%;
+    }
+    .sus
+    {
+        width: 90%;
+        margin: 0 auto;
     }
 }
