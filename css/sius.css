@@ -38,7 +38,7 @@ img {
     .container
     {
         flex-direction: column;
-        width: 60%;
+        width: 60%!important;
     }
     .sus
     {
