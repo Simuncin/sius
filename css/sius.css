@@ -34,7 +34,7 @@ img {
     background-size: cover;
 }
 
-@media screen and (max-width: 768) {
+@media screen and (max-width: 768px) {
     .sus
     {
         flex-direction: column;
